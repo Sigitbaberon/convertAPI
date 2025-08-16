@@ -1,0 +1,4 @@
+name = "convert-worker"
+compatibility_date = "2025-08-16"
+main = "index.js"
+type = "javascript"
