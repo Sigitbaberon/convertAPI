@@ -1,19 +1,5 @@
-name = "reactvid-worker"      # Nama Worker
-main = "index.js"             # File utama Worker
-compatibility_date = "2025-08-16"  # Tanggal kompatibilitas, ganti sesuai hari deploy
-
-# Optional: jika ingin menggunakan environment
-# [env.production]
-# name = "reactvid-worker-prod"
-
-# Deployment type
+name = "reactvid-worker"
+main = "index.js"               # sesuaikan dengan file Worker-mu
+compatibility_date = "2025-08-16"
 type = "javascript"
-
-# Account ID Cloudflare (ganti dengan milikmu)
 # account_id = "YOUR_ACCOUNT_ID"
-
-# Worker route (opsional, jika ingin deploy ke domain Pages)
-# route = "https://yourdomain.com/api/log-conversion"
-
-# Zone ID (opsional, jika ingin deploy ke route)
-# zone_id = "YOUR_ZONE_ID"
