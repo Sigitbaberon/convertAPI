@@ -1,5 +1,0 @@
-name = "reactvid-worker"
-main = "index.js"               # sesuaikan dengan file Worker-mu
-compatibility_date = "2025-08-16"
-type = "javascript"
-# account_id = "YOUR_ACCOUNT_ID"
